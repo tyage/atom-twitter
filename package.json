@@ -1,0 +1,16 @@
+{
+  "name": "twitter",
+  "main": "./lib/twitter",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationCommands": {
+    "atom-workspace": "twitter:toggle"
+  },
+  "repository": "https://github.com/atom/twitter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
